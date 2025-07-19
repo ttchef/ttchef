@@ -2,6 +2,18 @@
 
 ## Hello, I’m **ttchef** – a chef who cooks code **>:)**
 
+
+<details>
+  <summary>📖 More about me</summary>
+  <br>
+  👋 Hi, I’m **ttchef**  
+  🧑‍💻 I love working with **low-level graphics APIs** like Vulkan, OpenGL, and OpenXR.  
+  🛠 Building custom tools, libraries, and cooking spicy code for fun.  
+  🎨 Occasionally dabbling in **After Effects** for post-processing and animations.  
+  ☕ Fueled by coffee and terminal aesthetics.  
+</details>
+
+
 ---
 
 <div align="center">
@@ -35,6 +47,7 @@
 
 <div align="center">
   <strong>🛠 Languages & Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,zig,python,vim,linux,bash,git,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,zig,python,vim,linux,bash,git,vscode,aftereffects" alt="Languages and Tools" />
 </div>
+
 
