@@ -19,12 +19,16 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ttchef">
-    <img src="https://github-readme-stats.vercel.app/api?username=ttchef&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=15&custom_title=ttchef's%20GitHub%20Stats" width="48%" />
-  </a>
-  <a href="https://github.com/ttchef">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttchef&layout=compact&theme=dracula&hide_border=true&border_radius=15" width="48%" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ttchef&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=15&custom_title=ttchef's%20GitHub%20Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttchef&layout=compact&theme=dracula&hide_border=true&border_radius=15" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
