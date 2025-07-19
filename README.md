@@ -1,12 +1,18 @@
-# 👨‍🍳 ttchef  
+# 👨‍🍳 ttchef
 
-Hello, I’m **ttchef** – a chef who cooks code **>:)**  
+## Hello, I’m **ttchef** – a chef who cooks code **>:)**
 
 ---
 
 <div align="center">
   <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
-    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg" alt="Vulkan Logo" width="200" />
+    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg" alt="Vulkan Logo" width="150" />
+  </a>
+  <a href="https://www.opengl.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL Logo" width="150" />
+  </a>
+  <a href="https://www.khronos.org/openxr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenXR_logo.svg" alt="OpenXR Logo" width="150" />
   </a>
 </div>
 
