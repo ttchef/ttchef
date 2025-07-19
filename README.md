@@ -3,7 +3,12 @@
 
 Hello i am a chef who cooks code >:)
 
-<a href="https://vulkan.lunarg.com/sdk/home" target="_blank"><img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg" height="22" style="vertical-align: text-bottom"/></a>
+<div align="center">
+  <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
+    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg"
+         alt="Vulkan Logo"
+         width="200" /> </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/ttchef">
