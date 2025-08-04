@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+
 # 👨‍🍳 ttchef
 
 ## Hello, I’m **ttchef** – a chef who cooks code **>:)**
@@ -47,4 +49,4 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,zig,python,vim,linux,bash,git,vscode,aftereffects" alt="Languages and Tools" />
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
