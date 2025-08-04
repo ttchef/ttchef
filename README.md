@@ -6,11 +6,8 @@
 <details>
   <summary>📖 More about me</summary>
   <br>
-  👋 Hi, I’m **ttchef**  
-  🧑‍💻 I love working with **low-level graphics APIs** like Vulkan, OpenGL, and OpenXR.  
-  🛠 Building custom tools, libraries, and cooking spicy code for fun.  
-  🎨 Occasionally dabbling in **After Effects** for post-processing and animations.  
-  ☕ Fueled by coffee and terminal aesthetics.  
+  👋 Hi, I’m ttchef 
+  🧑‍💻 I love C  
 </details>
 
 
