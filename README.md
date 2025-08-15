@@ -10,6 +10,7 @@
   <br>
   👋 Hi, I’m ttchef 
   🧑‍💻 I love C  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttchef&label=Profile%20views&color=0e75b6&style=flat" alt="ttchef" />
 </details>
 
 
