@@ -2,33 +2,12 @@
 
 # 👨‍🍳 ttchef
 
-## Hello, I’m **ttchef** – a chef who cooks code **>:)**
-
-
 <details>
-  <summary>📖 More about me</summary>
+  <summary>📖 More Info</summary>
   <br>
-  👋 Hi, I’m ttchef 
-  🧑‍💻 I love C  
+    C is goated
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttchef&label=Profile%20views&color=0e75b6&style=flat" alt="ttchef" />
 </details>
-
-
----
-
-<div align="center">
-  <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
-    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg" alt="Vulkan Logo" width="150" />
-  </a>
-  <a href="https://www.opengl.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL Logo" width="150" />
-  </a>
-  <a href="https://www.khronos.org/openxr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenXR_logo.svg" alt="OpenXR Logo" width="150" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <table>
@@ -43,11 +22,5 @@
   </table>
 </div>
 
----
-
-<div align="center">
-  <strong>🛠 Languages & Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,zig,python,vim,linux,bash,git,vscode,aftereffects" alt="Languages and Tools" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
