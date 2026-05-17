@@ -1,11 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header"> -->
 
 # 👨‍🍳 ttchef
 
 <details>
   <summary>📖 More Info</summary>
-  <br>
-    C is goated
+  <br> C is goated
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttchef&label=Profile%20views&color=0e75b6&style=flat" alt="ttchef" />
 </details>
 
@@ -23,4 +22,4 @@
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b> -->
